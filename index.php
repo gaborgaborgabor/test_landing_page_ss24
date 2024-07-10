@@ -24,5 +24,5 @@ fwrite($file, "Time: $time, Scores: $scores\n");
 fclose($file);
 
 // if everything works, we see a "done"
-echo "done";
+echo "Thank you tester";
 ?>
